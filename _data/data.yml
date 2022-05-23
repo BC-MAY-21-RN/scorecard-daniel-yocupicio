@@ -19,7 +19,7 @@ sidebar:
   github: github.com/daniel-yocupicio
   gitlab:
   bitbucket:
-  twitter: ''
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    idk
+    Computer systems engineering graduate with interest in software development. I seek to expand my professional experience and increase my training in different technologies, taking good practices when developing. Currently I consider myself slow to work because there are things I don't know but day by day I learn new things that add to my knowledge. My main short-term goal is to train as a mobile developer in flutter and react native.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
