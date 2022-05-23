@@ -55,21 +55,25 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Jr Developer
+    time: 2021 Nov - 2022 Feb
+    company: Kiotrack
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Develop two modules in flutter and express js, the knowledge acquired was:
+        - Basic implementation of widgets in flutter.
+        - Navigation between views in flutter.
+        - Implementation of native code in flutter with method_channel.
+        - Implementation of firebase cloud messaging in native android.
+        - Implementation of AES and RSA encryption and decryption.
+
+  - role: developer in training (Bootcam)
+    time: 2022 - Present
+    company: BrightCoders
+    details: |
+      My role here is that of a student, often coding mobile projects with the react native framework. To do this, we work as a team with different people who have different knowledge that at the same time add to our own knowledge. One of the good things is that I can help people who require my previously acquired knowledge.
+        - Good practices
+        - Implement tests
+        - Team work
       
 # Registra aquí los proyectos en los que has participado
 projects:
