@@ -96,13 +96,13 @@ skills:
       level: 20%
 
     - name: Dart
-      level: 40%
+      level: 30%
 
     - name: JavaScript
-      level: 40%
+      level: 30%
 
     - name: Java
-      level: 40%
+      level: 30%
 
     - name: Kotlin
       level: 20%
@@ -120,7 +120,7 @@ skills:
       level: 15%
 
     - name: React Native
-      level: 40%
+      level: 30%
 
     - name: Flutter
       level: 30%
