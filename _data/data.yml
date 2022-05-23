@@ -7,7 +7,7 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Daniel Guadalupe Yocupicio Vázquez # Nombre completo
+  name: Daniel Yocupicio # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
@@ -15,7 +15,7 @@ sidebar:
   email: danielyocupiciovazquez@gmail.com
   phone: '3121381009'
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: 
   github: github.com/daniel-yocupicio
   gitlab:
   bitbucket:
@@ -38,9 +38,6 @@ sidebar:
       link: # dejar en blanco
 
     - item: Team Work
-      link: # dejar en blanco
-
-    - item: Time Management
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -159,7 +156,28 @@ skills:
     - name: Kotlin
       level: 20%
 
-    - name: C/C++
+    - name: SQLServer
+      level: 20%
+
+    - name: MySQL
+      level: 20%
+    
+    - name: NodeJs
+      level: 15%
+
+    - name: SpringBoot
+      level: 15%
+
+    - name: React Native
+      level: 40%
+
+    - name: Flutter
+      level: 30%
+    
+    - name: Firebase
+      level: 20%
+
+    - name: Git
       level: 20%
 
 # NO MODIFICAR
