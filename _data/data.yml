@@ -59,12 +59,10 @@ experiences:
     time: 2021 Nov - 2022 Feb
     company: Kiotrack
     details: |
-      Develop two modules in flutter and express js, the knowledge acquired was:
-        - Basic implementation of widgets in flutter.
-        - Navigation between views in flutter.
-        - Implementation of native code in flutter with method_channel.
-        - Implementation of firebase cloud messaging in native android.
-        - Implementation of AES and RSA encryption and decryption.
+      Develop two modules, the knowledge acquired was:
+        - Flutter.
+        - Express with nodejs.
+        - BouncyCastle.
 
   - role: developer in training (Bootcam)
     time: 2022 - Present
