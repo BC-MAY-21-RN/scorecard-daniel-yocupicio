@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Daniel Guadalupe Yocupicio Vázquez # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: danielyocupiciovazquez@gmail.com
+  phone: '3121381009'
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: https://github.com/daniel-yocupicio
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: ''
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -150,20 +147,20 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: Dart
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
+    - name: JavaScript
+      level: 40%
 
-    - name: Caffe
-      level: 80%
+    - name: Java
+      level: 40%
 
-    - name: Matlab
-      level: 100%
+    - name: Kotlin
+      level: 20%
 
     - name: C/C++
-      level: 40%
+      level: 20%
 
 # NO MODIFICAR
 footer: >
