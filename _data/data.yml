@@ -113,13 +113,13 @@ skills:
       level: 20%
 
     - name: JavaScript
-      level: 40%
+      level: 45%
 
     - name: Java
-      level: 30%
+      level: 25%
 
     - name: Kotlin
-      level: 20%
+      level: 15%
 
     - name: SQLServer
       level: 15%
@@ -140,7 +140,7 @@ skills:
       level: 30%
 
     - name: Git
-      level: 30%
+      level: 20%
 
 # NO MODIFICAR
 footer: >
