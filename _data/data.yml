@@ -107,16 +107,16 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 15%
 
     - name: Dart
-      level: 20%
+      level: 15%
 
     - name: JavaScript
-      level: 45%
+      level: 40%
 
     - name: Java
-      level: 25%
+      level: 20%
 
     - name: Kotlin
       level: 15%
@@ -137,7 +137,7 @@ skills:
       level: 20%
     
     - name: Firebase
-      level: 30%
+      level: 20%
 
     - name: Git
       level: 20%
