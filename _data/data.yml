@@ -15,7 +15,7 @@ sidebar:
   email: danielyocupiciovazquez@gmail.com
   phone: '3121381009'
   website: # No agregar http://
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/daniel-guadalupe-yocupicio-v%C3%A1zquez-620459247/
   github: github.com/daniel-yocupicio
   gitlab:
   bitbucket:
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Computer systems engineering graduate with interest in software development. I seek to expand my professional experience and increase my training in different technologies, taking good practices when developing. Currently I consider myself slow to work because there are things I don't know but day by day I learn new things that add to my knowledge. My main short-term goal is to train as a mobile developer in flutter and react native.
+    Computer systems engineering graduate with interest in software development. I seek to expand my professional experience, increase my knowledge in different technologies and develop myself even more as a person.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -52,6 +52,7 @@ educationcomplete:
     university: Tecnológico Nacional de México
     time: 2016 - 2021
     details: |
+      Graduated in Computer Systems Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -59,13 +60,10 @@ experiences:
     time: 2021 Nov - 2022 Feb
     company: Kiotrack
     details: |
-      Develop two modules, the knowledge acquired was:
-        - Flutter.
-        - Express with nodejs.
-        - Basic bouncyCastle with Java.
+      Participation in the development with two modules, the first was in a mobile application and the second an api with node js express.
 
-  - role: developer in training (Bootcam)
-    time: 2022 - Present
+  - role: Jr developer in training (Bootcamp)
+    time: 2022 May - Present
     company: BrightCoders
     details: |
       My role here is that of a student, often coding mobile projects with the react native framework. To do this, we work as a team with different people who have different knowledge that at the same time add to our own knowledge. One of the good things is that I can help people who require my previously acquired knowledge.
@@ -82,6 +80,26 @@ projects:
         link: "https://github.com/daniel-yocupicio/EasyHOME"
         tagline: "School project for the subject of multiplatform development, the project was carried out in react native with expo, firebase was implemented as a database and the objective of the application was to generate a mobile platform to find houses for sale or rent in colima."
 
+    assignments:
+      - title: Kata 03 recetario
+        link: "https://github.com/BC-MAY-21-RN/kata-03-recetario-m22-k03-t3"
+        tagline: "Participation in kata 04 in which the provided design was modeled and basic functionalities were added, such as navigating between views and manipulating the useState hook."
+
+    assignments:
+      - title: Kata 04 inmobiliaria
+        link: "https://github.com/BC-MAY-21-RN/kata-04-inmobiliaria-daniel-yocupicio"
+        tagline: "Individual Kata to layout a list of components."
+
+    assignments:
+      - title: kata 05 reservacion de vuelos
+        link: "https://github.com/BC-MAY-21-RN/kata-05-reservacion-de-vuelos-m22-k05-t2-reactive-02"
+        tagline: "Participation in kata 5 which was used to reserve flights, flights were reserved in firebase, in the same way email and google authentication was implemented."
+
+    assignments:
+      - title: Proyecto final
+        link: "https://github.com/BC-MAY-21-RN/proyecto-final-m22-pf-t2-reactive-02"
+        tagline: "Participation in the PetMyHeart application which is a mini social network focused on publications about pets."
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -96,10 +114,10 @@ skills:
       level: 20%
 
     - name: Dart
-      level: 30%
+      level: 20%
 
     - name: JavaScript
-      level: 30%
+      level: 40%
 
     - name: Java
       level: 30%
@@ -108,28 +126,25 @@ skills:
       level: 20%
 
     - name: SQLServer
-      level: 20%
-
-    - name: MySQL
-      level: 20%
-    
-    - name: NodeJs
       level: 15%
 
-    - name: SpringBoot
+    - name: MySQL
+      level: 15%
+    
+    - name: NodeJs
       level: 15%
 
     - name: React Native
       level: 30%
 
     - name: Flutter
-      level: 30%
+      level: 20%
     
     - name: Firebase
-      level: 20%
+      level: 30%
 
     - name: Git
-      level: 20%
+      level: 30%
 
 # NO MODIFICAR
 footer: >
