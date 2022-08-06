@@ -80,22 +80,18 @@ projects:
         link: "https://github.com/daniel-yocupicio/EasyHOME"
         tagline: "School project for the subject of multiplatform development, the project was carried out in react native with expo, firebase was implemented as a database and the objective of the application was to generate a mobile platform to find houses for sale or rent in colima."
 
-    assignments:
       - title: Kata 03 recetario
         link: "https://github.com/BC-MAY-21-RN/kata-03-recetario-m22-k03-t3"
         tagline: "Participation in kata 04 in which the provided design was modeled and basic functionalities were added, such as navigating between views and manipulating the useState hook."
 
-    assignments:
       - title: Kata 04 inmobiliaria
         link: "https://github.com/BC-MAY-21-RN/kata-04-inmobiliaria-daniel-yocupicio"
         tagline: "Individual Kata to layout a list of components."
 
-    assignments:
       - title: kata 05 reservacion de vuelos
         link: "https://github.com/BC-MAY-21-RN/kata-05-reservacion-de-vuelos-m22-k05-t2-reactive-02"
         tagline: "Participation in kata 5 which was used to reserve flights, flights were reserved in firebase, in the same way email and google authentication was implemented."
 
-    assignments:
       - title: Proyecto final
         link: "https://github.com/BC-MAY-21-RN/proyecto-final-m22-pf-t2-reactive-02"
         tagline: "Participation in the PetMyHeart application which is a mini social network focused on publications about pets."
